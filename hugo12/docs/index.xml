@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on MyTool CLI Documentation</title><link>https://localcompose.github.io/localcompose.github.io/docs/</link><description>Recent content in Docs on MyTool CLI Documentation</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://localcompose.github.io/localcompose.github.io/docs/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://localcompose.github.io/localcompose.github.io/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://localcompose.github.io/localcompose.github.io/docs/getting-started/</guid><description>&lt;h1 id="getting-started"&gt;Getting Started&lt;/h1&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;MyTool&lt;/strong&gt;!&lt;br&gt;
+Here’s how to run &lt;code&gt;mytool&lt;/code&gt; on different operating systems.&lt;/p&gt;
+
+
+
+
+
+
+&lt;ul class="nav nav-tabs" id="tabs-0" role="tablist"&gt;
+ &lt;li class="nav-item"&gt;
+ &lt;button class="nav-link active"
+ id="tabs-00-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-00-00" role="tab"
+ aria-controls="tabs-00-00" aria-selected="true"&gt;
+ Tab 0
+ &lt;/button&gt;
+ &lt;/li&gt;&lt;li class="nav-item"&gt;
+ &lt;button class="nav-link"
+ id="tabs-00-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-00-01" role="tab"
+ aria-controls="tabs-00-01" aria-selected="false"&gt;
+ Tab 1
+ &lt;/button&gt;
+ &lt;/li&gt;&lt;li class="nav-item"&gt;
+ &lt;button class="nav-link"
+ id="tabs-00-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-00-02" role="tab"
+ aria-controls="tabs-00-02" aria-selected="false"&gt;
+ Tab 2
+ &lt;/button&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class="tab-content" id="tabs-0-content"&gt;
+ &lt;div class="tab-pane fade show active"
+ id="tabs-00-00" role="tabpanel" aria-labelled-by="tabs-00-00-tab" tabindex="0"&gt;
+ &lt;pre tabindex="0"&gt;&lt;code&gt;```bash
+./mytool run --config /etc/mytool/config.yaml
+```&lt;/code&gt;&lt;/pre&gt;
+ &lt;/div&gt;
+ &lt;div class="tab-pane fade"
+ id="tabs-00-01" role="tabpanel" aria-labelled-by="tabs-00-01-tab" tabindex="0"&gt;
+ &lt;pre tabindex="0"&gt;&lt;code&gt;```bash
+./mytool run --config ~/Library/Application\ Support/mytool/config.yaml
+```&lt;/code&gt;&lt;/pre&gt;
+ &lt;/div&gt;
+ &lt;div class="tab-pane fade"
+ id="tabs-00-02" role="tabpanel" aria-labelled-by="tabs-00-02-tab" tabindex="0"&gt;
+ &lt;pre tabindex="0"&gt;&lt;code&gt;```powershell
+./mytool run --config ~/Library/Application\ Support/mytool/config.yaml
+```&lt;/code&gt;&lt;/pre&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
