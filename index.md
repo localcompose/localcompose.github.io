@@ -26,3 +26,5 @@ Support developers, testers, and tinkerers who prefer local, private, and reliab
 * [./locom25](./locom25)
 * [./locom26](./locom26)
 * [./_config.yml](./_config.yml)
+* [!/locom-githubpages (gh-pages)](./locom-githubpages)
+* [./locom-v0.0.1-poc](./locom-v0.0.1-poc)
