@@ -1,6 +1,6 @@
-# 🚧 localcompose
+# 🚧 ttt-localcompose
 
-## localcompose
+## tttt-localcompose
 
 **localcompose** is a community-driven toolset for running local Docker Compose apps in an offline-friendly, no-cloud-required way.  
 It helps you stop juggling ports and IPs like `127.0.0.1:9000`, giving each app a clean domain name and a trusted HTTPS link.  
@@ -25,5 +25,4 @@ Support developers, testers, and tinkerers who prefer local, private, and reliab
 * [./locom](./locom)
 * [./locom25](./locom25)
 * [./locom26](./locom26)
-* [./locom](./locom)
 * [./_config.yml](./_config.yml)
