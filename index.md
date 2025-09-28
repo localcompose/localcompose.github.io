@@ -28,3 +28,4 @@ Support developers, testers, and tinkerers who prefer local, private, and reliab
 * [./_config.yml](./_config.yml)
 * [!/locom-githubpages (gh-pages)](./locom-githubpages)
 * [./locom-v0.0.1-poc](./locom-v0.0.1-poc)
+* [./locom-v0.0.2-poc](./locom-v0.0.2-poc)
