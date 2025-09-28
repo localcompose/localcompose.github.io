@@ -17,3 +17,13 @@ Support developers, testers, and tinkerers who prefer local, private, and reliab
 ---
 
 📌 _This project is in active development. Contributors and feedback are welcome. Please watch [the repo](https://github.com/localcompose/locom) for updates!_
+
+---
+
+* [./homebrew-locom/](./homebrew-locom)
+* [./hugo12/](./hugo12)
+* [./locom](./locom)
+* [./locom25](./locom25)
+* [./locom26](./locom26)
+* [./locom](./locom)
+* [./_config.yml](./_config.yml)
