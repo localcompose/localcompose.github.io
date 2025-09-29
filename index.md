@@ -29,4 +29,6 @@ Support developers, testers, and tinkerers who prefer local, private, and reliab
 * [!/locom-githubpages (gh-pages)](./locom-githubpages)
 * [./locom-v0.0.1-poc](./locom-v0.0.1-poc)
 * [./locom-v0.0.2-poc](./locom-v0.0.2-poc)
+* [./locom-v0.0.2-poc/docs](./locom-v0.0.2-poc/docs)
+* [./locom-v0.0.2-poc/guide](./locom-v0.0.2-poc/guide)
 * [./tabs](./tabs)
