@@ -16,4 +16,52 @@
          <loc>https://localcompose.github.io/locom/usage/</loc>
          <lastmod>2025-09-29</lastmod>
     </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_cert/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_cert_selfsigned/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_cert_selfsigned_cleanup/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_cert_selfsigned_setup/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_cert_selfsigned_trust/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_cert_selfsigned_untrust/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_hosts/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_init/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_network/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_proxy/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://localcompose.github.io/locom/docs/locom_version/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
 </urlset>
