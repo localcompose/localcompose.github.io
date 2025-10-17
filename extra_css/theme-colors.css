@@ -1,0 +1,9 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #2399EA; /* Ocean */
+  --md-accent-fg-color:         #FFB84C; /* Coral */
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #2399EA; /* Ocean */
+  --md-accent-fg-color:         #FFB84C; /* Coral */
+}
